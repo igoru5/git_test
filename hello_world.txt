@@ -1,0 +1,2 @@
+Hello, world. This is my first exercise on Git commands 
+through Terminal on macOS and VSCode! Fun times :)
